@@ -1,7 +1,7 @@
 {
-  "name": "linkedin-post-scraper",
+  "name": "linkedin-scraper",
   "version": "1.0.0",
-  "description": "Scrapes LinkedIn posts from a profile using Puppeteer",
+  "description": "LinkedIn scraper with Puppeteer",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
